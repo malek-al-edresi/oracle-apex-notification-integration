@@ -1,4 +1,3 @@
-```markdown
 # Oracle APEX Application with WhatsApp API Integration
 
 ## Overview
