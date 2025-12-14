@@ -117,12 +117,3 @@ node api_whatsapp_inetgration.js
 
 Malek Mohammed Al-Edresi
 +967-778888730
-## License
-
-This project is provided for educational and enterprise integration purposes.
-Add a license file if open-sourcing the project.
-
----
-
-*This project demonstrates enterprise-grade integration between Oracle APEX and modern communication platforms.*
-```
