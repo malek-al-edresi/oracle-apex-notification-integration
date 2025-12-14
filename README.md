@@ -31,9 +31,6 @@ Used to import the full APEX application into an existing APEX workspace.
 Node.js service responsible for integrating with the WhatsApp API.
 Acts as a middleware between Oracle APEX and the external WhatsApp service.
 
-### readme
-Original internal notes (superseded by this professional README).
-
 ## Architecture
 
 ### High-level flow:
